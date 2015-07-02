@@ -12,6 +12,10 @@ The font are sorted by 'family':
 * Sinhalese ( සිංහල )
 * Vietnamese ( Tiếng Việt )
 
+# Modifications/ Derivations :
+
+Modification or derivation can be done with Fontforge. Fontforge sources files (sfd) can be saved in a subdirectory 'sources'.
+ 
 
 #License, author, details and links :
 
@@ -56,7 +60,7 @@ Adding author name plus a link to the webpage and license info in this README is
 
 ### Latin 
 
-* (main): Lavi by Ruben Holthuijsen aka Rholt [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
+* (main): Lavi by Ruben Holthuijsen aka Rholt, modification by David Revoy [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
 * (book&labels): Robokoz  by Ray Larabie, rlarabie@hotmail.com [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
 
