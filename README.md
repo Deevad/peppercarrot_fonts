@@ -2,8 +2,6 @@
 Open fonts used for the webcomic Pepper&Carrot
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
-Note : A big thanks to the website owner and maintainer of [openfontlibrary.org](http://openfontlibrary.org) for being the best and safer place to find font on open-source project. 
-
 The font are sorted by 'family':
 
 * Arabic ( عربي )
@@ -16,6 +14,12 @@ The font are sorted by 'family':
 
 
 #License, author, details and links :
+
+/!\ Note :  Every fonts or contribution to modify one in this project **must** be compatible with the CC-By license. 
+
+Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). 
+
+Adding author name plus a link to the webpage and license info in this README is required.
 
 
 ### Arabic
@@ -58,6 +62,10 @@ The font are sorted by 'family':
 
 * (labels italic): Alex Brush by Robert E. Leuschke, http://www.typesetit.com [OFL / SIL Open Font License], [link](http://openfontlibrary.org/fr/font/alex-brush)
 
+* (labels italic - alt ): DinaLight by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/dynalight)
+
+* ( subtitle ): Risque by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/risque)
+
 * (monster-speech): DrukaatieBurti  by Kārlis Kalviškis, Zirneklitis on [OFL / SIL Open Font License], [link](http://openfontlibrary.org/en/font/drukaatieburti)
 
 
@@ -70,3 +78,7 @@ The font are sorted by 'family':
 
 * (main): rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
+
+# Special thanks :
+
+ A big thanks to all font's creators on this page, and also a special thank to the website owner and maintainer of [openfontlibrary.org](http://openfontlibrary.org) for being the best and safer place to find font on open-source project. 
