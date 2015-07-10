@@ -11,6 +11,7 @@ The font are sorted by 'family':
 * Latin ( Català, Deutsch, English, Español, Esperanto, Français, Italiano, Mexicano, Nederlands, Polski, Português )
 * Sinhalese ( සිංහල )
 * Vietnamese ( Tiếng Việt )
+* Chinese simplified ( 简体中文 )
 
 # Modifications/ Derivations :
 
@@ -80,7 +81,11 @@ Adding author name plus a link to the webpage and license info in this README is
 
 ### Vietnamese
 
-* (main): rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+* (main): rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license](http://jikasei.me/font/rounded-mplus/license.html), [link](http://jikasei.me/font/rounded-mplus/about.html)
+
+### Chinese simplified
+
+* (main): wqy-microhei.ttc by WenQuanYi Project Contributors [GNU GPL V3](http://www.gnu.org/licenses/gpl-3.0.html) with [font exception](http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html#FontException), [link](http://wenq.org/en/)
 
 
 # Special thanks :
