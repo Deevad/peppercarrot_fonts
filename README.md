@@ -63,6 +63,8 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (main): Lavi by Ruben Holthuijsen aka Rholt, modification by David Revoy [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
+* (Handwriting): Fondamento by Brian J. Bonislawsky ( aka Astigmatic ) [OFL / SIL Open Font License], [link](https://www.google.com/fonts/specimen/Fondamento)
+
 * (labels italic): Alex Brush by Robert E. Leuschke, http://www.typesetit.com [OFL / SIL Open Font License], [link](http://openfontlibrary.org/fr/font/alex-brush)
 
 * (labels italic - alt ): DinaLight by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/dynalight)
