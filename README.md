@@ -1,28 +1,27 @@
 # Pepper&Carrot fonts
 Open fonts used for the webcomic Pepper&Carrot
-[http://www.peppercarrot.com](http://www.peppercarrot.com)
+[http://www.peppercarrot.com](http://www.peppercarrot.com).
 
 The font are sorted by 'family':
 
-* Arabic ( عربي )
-* Cyrilic ( українська, Pусский )
-* Greek ( ελληνικά )
-* Japanese ( 日本語  )
-* Latin ( Català, Deutsch, English, Español, Esperanto, Français, Italiano, Mexicano, Nederlands, Polski, Português )
-* Sinhalese ( සිංහල )
-* Vietnamese ( Tiếng Việt )
-* Chinese simplified ( 简体中文 )
+* Arabic (عربي)
+* Cyrilic (українська, Pусский)
+* Greek (ελληνικά)
+* Japanese (日本語)
+* Latin (Català, Deutsch, English, Español, Esperanto, Français, Italiano, Mexicano, Nederlands, Polski, Português)
+* Sinhalese (සිංහල)
+* Vietnamese (Tiếng Việt)
+* Chinese simplified (简体中文)
 
 # Modifications/ Derivations :
 
 Modification or derivation can be done with Fontforge. Fontforge sources files (sfd) can be saved in a subdirectory 'sources'.
- 
 
-#License, author, details and links :
+# License, author, details and links :
 
-/!\ Note :  Every fonts or contribution to modify one in this project **must** be compatible with the CC-By license. 
+/!\ Note:  Every fonts or contribution to modify one in this project **must** be compatible with the CC-By license.
 
-Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). 
+Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL).
 
 Adding author name plus a link to the webpage and license info in this README is required.
 
@@ -33,9 +32,9 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (main-bold): Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
 
-* (book&labels) : Droid Arabic Kufi By Pascal Zoghbi [Apache License 2.0]( http://www.apache.org/licenses/LICENSE-2.0), [link]( http://www.fontsc.com/font/droid-arabic-kufi)
+* (book&labels): Droid Arabic Kufi By Pascal Zoghbi [Apache License 2.0]( http://www.apache.org/licenses/LICENSE-2.0), [link]( http://www.fontsc.com/font/droid-arabic-kufi)
 
-* (monster) : Tholoth By Nadim Shaikli [GNU GPL] (http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/tholoth)
+* (monster): Tholoth By Nadim Shaikli [GNU GPL] (http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/tholoth)
 
 * (title): Alhor by Nadim Shaikli [GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
 
@@ -49,7 +48,7 @@ Adding author name plus a link to the webpage and license info in this README is
 
 ### Greek :
 
-* (main) Pecita by OFL user Pecita [OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
+* (main): Pecita by OFL user Pecita [OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
 
 * (book&labels): VAG-HandWritten by Vangelis Makridakis [GNU GPL V2](http://www.fontsquirrel.com/license/VAG-HandWritten), [link](http://www.fontsquirrel.com/fonts/VAG-HandWritten)
 
@@ -59,24 +58,24 @@ Adding author name plus a link to the webpage and license info in this README is
 * (main): rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
 
 
-### Latin 
+### Latin
 
-* (main): Lavi by Ruben Holthuijsen aka Rholt, modification by David Revoy [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
+* (main): Lavi by Ruben Holthuijsen aka Rholt, modification by David Revoy and Sölve Svartskogen [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
-* (Handwriting): Fondamento by Brian J. Bonislawsky ( aka Astigmatic ) [OFL / SIL Open Font License], [link](https://www.google.com/fonts/specimen/Fondamento)
+* (handwriting): Fondamento by Brian J. Bonislawsky ( aka Astigmatic ) [OFL / SIL Open Font License], [link](https://www.google.com/fonts/specimen/Fondamento)
 
-* (labels italic): Alex Brush by Robert E. Leuschke, http://www.typesetit.com [OFL / SIL Open Font License], [link](http://openfontlibrary.org/fr/font/alex-brush)
+* (labels italic): Alex Brush by Robert E. Leuschke, modified by Sölve Svartskogen, http://www.typesetit.com [OFL / SIL Open Font License], [link](http://openfontlibrary.org/fr/font/alex-brush)
 
-* (labels italic - alt ): DinaLight by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/dynalight)
+* (labels italic - alt): DinaLight by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/dynalight)
 
-* ( subtitle ): Risque by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/risque)
+* (subtitle): Risque by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/risque)
 
 * (monster-speech): DrukaatieBurti  by Kārlis Kalviškis, Zirneklitis on [OFL / SIL Open Font License], [link](http://openfontlibrary.org/en/font/drukaatieburti)
 
 
-### Sinhalese: 
+### Sinhalese:
 
-* (main) : Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+* (main): Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
 
 
 ### Vietnamese
@@ -90,4 +89,4 @@ Adding author name plus a link to the webpage and license info in this README is
 
 # Special thanks :
 
- A big thanks to all font's creators on this page, and also a special thank to the website owner and maintainer of [openfontlibrary.org](http://openfontlibrary.org) for being the best and safer place to find font on open-source project. 
+A big thanks to all font's creators on this page, and also a special thank to the website owner and maintainer of [openfontlibrary.org](http://openfontlibrary.org) for being the best and safer place to find font on open-source project.
