@@ -5,6 +5,7 @@ Open fonts used in webcomic Pepper&Carrot
 Fonts are sorted by "family":
 
 * Arabic (عربي)
+* Bengali
 * Cyrilic (українська, Pусский)
 * Greek (ελληνικά)
 * Japanese (日本語)
