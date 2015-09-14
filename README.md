@@ -38,6 +38,10 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (title): Alhor by Nadim Shaikli [GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
 
+### Bengali
+
+* (main): [Lohit Bengali](https://fedorahosted.org/lohit/) by Red Hat, Inc.; [SIL OFL 1.1 license](scripts.sil.org/OFL)
+
 
 ### Cyrilic
 
