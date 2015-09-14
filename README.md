@@ -1,8 +1,8 @@
 # Pepper&Carrot fonts
-Open fonts used for the webcomic Pepper&Carrot
+Open fonts used in webcomic Pepper&Carrot
 [http://www.peppercarrot.com](http://www.peppercarrot.com).
 
-The font are sorted by 'family':
+Fonts are sorted by "family":
 
 * Arabic (عربي)
 * Cyrilic (українська, Pусский)
@@ -13,30 +13,30 @@ The font are sorted by 'family':
 * Vietnamese (Tiếng Việt)
 * Chinese simplified (简体中文)
 
-# Modifications/ Derivations :
+# Modifications/Derivations
 
-Modification or derivation can be done with Fontforge. Fontforge sources files (sfd) can be saved in a subdirectory 'sources'.
+Modification or derivation can be done with FontForge. FontForge sources files (sfd) can be saved in a subdirectory "sources".
 
-# License, author, details and links :
+# License, author, details and links
 
-/!\ Note:  Every fonts or contribution to modify one in this project **must** be compatible with the CC-By license.
+**Note:** Every font or contribution to modify one in this project **must** be compatible with the CC-By license.
 
-Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL).
+Compatible: public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, OFL (SIL Open Font License).
 
 Adding author name plus a link to the webpage and license info in this README is required.
 
 
 ### Arabic
 
-* (main): Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-normal)
+* (main): [Midan-Normal](http://openfontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi; [MIT License](http://opensource.org/licenses/mit-license.php)
 
-* (main-bold): Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
+* (main-bold): [Midan-Black](http://openfontlibrary.org/en/font/midan-black) by Kameel Hawa; [MIT License](http://opensource.org/licenses/mit-license.php)
 
-* (book&labels): Droid Arabic Kufi By Pascal Zoghbi [Apache License 2.0]( http://www.apache.org/licenses/LICENSE-2.0), [link]( http://www.fontsc.com/font/droid-arabic-kufi)
+* (book&labels): [Droid Arabic Kufi](http://www.fontsc.com/font/droid-arabic-kufi) by Pascal Zoghbi; [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-* (monster): Tholoth By Nadim Shaikli [GNU GPL] (http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/tholoth)
+* (monster): [Tholoth](http://openfontlibrary.org/en/font/tholoth) by Nadim Shaikli; [GNU GPL](http://www.gnu.org/copyleft/gpl.html)
 
-* (title): Alhor by Nadim Shaikli [GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
+* (title): [Alhor](http://openfontlibrary.org/en/font/alhor) by Nadim Shaikli; [GNU GPL](http://www.gnu.org/copyleft/gpl.html)
 
 ### Bengali
 
@@ -45,52 +45,52 @@ Adding author name plus a link to the webpage and license info in this README is
 
 ### Cyrilic
 
-* (main): Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+* (main): [Neucha](https://www.google.com/fonts/specimen/Neucha) by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about); [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
-* (book&labels)&(monster-speech): RuslanDisplay by [Denis Masharov](https://plus.google.com/106558435145097149719/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Ruslan+Display)
+* (book&labels)&(monster-speech): [RuslanDisplay](https://www.google.com/fonts/specimen/Ruslan+Display) by [Denis Masharov](https://plus.google.com/106558435145097149719/about); [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
 
-### Greek :
+### Greek
 
-* (main): Pecita by OFL user Pecita [OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
+* (main): [Pecita](http://openfontlibrary.org/font/pecita) by OFL user Pecita; [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
-* (book&labels): VAG-HandWritten by Vangelis Makridakis [GNU GPL V2](http://www.fontsquirrel.com/license/VAG-HandWritten), [link](http://www.fontsquirrel.com/fonts/VAG-HandWritten)
+* (book&labels): [VAG-HandWritten](http://www.fontsquirrel.com/fonts/VAG-HandWritten) by Vangelis Makridakis; [GNU GPL V2](http://www.fontsquirrel.com/license/VAG-HandWritten)
 
 
 ### Japanese
 
-* (main): rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+* (main): [rounded-mplus-1c-medium.ttf](http://jikasei.me/font/rounded-mplus/about.html) from Rounded M+ by MM; [MFont+ license](http://jikasei.me/font/rounded-mplus/license.html)
 
 
 ### Latin
 
-* (main): Lavi by Ruben Holthuijsen aka Rholt, modification by David Revoy and Sölve Svartskogen [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
+* (main): [Lavi](http://www.dafont.com/lavi.font) by Ruben Holthuijsen aka Rholt, modification by David Revoy and Sölve Svartskogen; [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html)
 
-* (handwriting): Fondamento by Brian J. Bonislawsky ( aka Astigmatic ) [OFL / SIL Open Font License], [link](https://www.google.com/fonts/specimen/Fondamento)
+* (handwriting): [Fondamento](https://www.google.com/fonts/specimen/Fondamento) by Brian J. Bonislawsky (aka Astigmatic); [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
-* (labels italic): Alex Brush by Robert E. Leuschke, modified by Sölve Svartskogen, http://www.typesetit.com [OFL / SIL Open Font License], [link](http://openfontlibrary.org/fr/font/alex-brush)
+* (labels italic): [Alex Brush](http://openfontlibrary.org/fr/font/alex-brush) by Robert E. Leuschke, modified by Sölve Svartskogen, [TypeSETit.com](http://www.typesetit.com); [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
-* (labels italic - alt): DinaLight by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/dynalight)
+* (labels italic - alt): [DynaLight](http://www.fontsquirrel.com/fonts/dynalight) by Brian J. Bonislawsky DBA Astigmatic (AOETI), astigma@astigmatic.com; [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
-* (subtitle): Risque by Brian J. Bonislawsky DBA Astigmatic (AOETI) , astigma@astigmatic.com [OFL / SIL Open Font License], [link](http://www.fontsquirrel.com/fonts/risque)
+* (subtitle): [Risque](http://www.fontsquirrel.com/fonts/risque) by Brian J. Bonislawsky DBA Astigmatic (AOETI), astigma@astigmatic.com; [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
-* (monster-speech): DrukaatieBurti  by Kārlis Kalviškis, Zirneklitis on [OFL / SIL Open Font License], [link](http://openfontlibrary.org/en/font/drukaatieburti)
+* (monster-speech): [DrukaatieBurti](http://openfontlibrary.org/en/font/drukaatieburti) by Kārlis Kalviškis, Zirneklitis; [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
 
-### Sinhalese:
+### Sinhalese
 
-* (main): Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+* (main): [Bashita Complex Bold](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en) by the ICT Agency (ICTA) of Sri Lanka; [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/)
 
 
 ### Vietnamese
 
-* (main): rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license](http://jikasei.me/font/rounded-mplus/license.html), [link](http://jikasei.me/font/rounded-mplus/about.html)
+* (main): [rounded-mplus-1c-medium.ttf](http://jikasei.me/font/rounded-mplus/about.html) from Rounded M+ by MM; [MFont+ license](http://jikasei.me/font/rounded-mplus/license.html)
 
 ### Chinese simplified
 
-* (main): wqy-microhei.ttc by WenQuanYi Project Contributors [GNU GPL V3](http://www.gnu.org/licenses/gpl-3.0.html) with [font exception](http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html#FontException), [link](http://wenq.org/en/)
+* (main): [wqy-microhei.ttc](http://wenq.org/en/) by WenQuanYi Project Contributors; [GNU GPL V3](http://www.gnu.org/licenses/gpl-3.0.html) with [font exception](http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html#FontException)
 
 
-# Special thanks :
+# Special thanks
 
 A big thanks to all font's creators on this page, and also a special thank to the website owner and maintainer of [openfontlibrary.org](http://openfontlibrary.org) for being the best and safer place to find font on open-source project.
