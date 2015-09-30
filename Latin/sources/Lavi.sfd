@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1231154524
-ModificationTime: 1441878409
+ModificationTime: 1443638392
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -487,7 +487,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 38 14
+WinInfo: 64 32 14
 BeginChars: 65543 353
 
 StartChar: .notdef
@@ -21929,7 +21929,7 @@ EndChar
 
 StartChar: iacute
 Encoding: 237 237 173
-Width: 1013
+Width: 590
 GlyphClass: 2
 Flags: W
 TtInstrs:
@@ -21975,11 +21975,11 @@ SplineSet
  196 443 196 443 186 367.5 c 128,-1,26
  176 292 176 292 163 223 c 128,-1,27
  150 154 150 154 134 97 c 0,0,1
-582 1676 m 5,28,-1
- 270 1215 l 5,29,-1
- 160 1302 l 5,30,-1
- 490 1755 l 5,31,-1
- 582 1676 l 5,28,-1
+582 1676 m 1,28,-1
+ 270 1215 l 1,29,-1
+ 160 1302 l 1,30,-1
+ 490 1755 l 1,31,-1
+ 582 1676 l 1,28,-1
 EndSplineSet
 EndChar
 
