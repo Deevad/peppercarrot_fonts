@@ -50,6 +50,8 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (book&labels)&(monster-speech): [RuslanDisplay](https://www.google.com/fonts/specimen/Ruslan+Display) by [Denis Masharov](https://plus.google.com/106558435145097149719/about); [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
+* (labels): [Lobster](https://www.google.com/fonts/specimen/Lobster) by [Pablo Impallari](https://plus.google.com/114391601624281927771/about); [OFL (SIL Open Font License, 1.1)](http://scripts.sil.org/OFL)
+
 
 ### Greek
 
