@@ -52,6 +52,13 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (labels): [Lobster](https://www.google.com/fonts/specimen/Lobster) by [Pablo Impallari](https://plus.google.com/114391601624281927771/about); [OFL (SIL Open Font License, 1.1)](http://scripts.sil.org/OFL)
 
+### Farsi
+
+* (main): [Midan-Normal](http://openfontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi; [MIT License](http://opensource.org/licenses/mit-license.php)
+
+* (main-bold): [Midan-Black](http://openfontlibrary.org/en/font/midan-black) by Kameel Hawa; [MIT License](http://opensource.org/licenses/mit-license.php)
+
+* (monster & magic incantations): [XM-Yermook](https://fontlibrary.org/en/font/xm-yermook) by Behnam; [GNU General Public License](http://www.gnu.org/copyleft/gpl.html)
 
 ### Greek
 
