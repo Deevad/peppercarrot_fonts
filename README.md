@@ -7,6 +7,7 @@ Fonts are sorted by "family":
 * Arabic (عربي)
 * Bengali
 * Cyrilic (українська, Pусский)
+* Farsi (فارسی)
 * Greek (ελληνικά)
 * Japanese (日本語)
 * Latin (Català, Deutsch, English, Español, Esperanto, Français, Italiano, Mexicano, Nederlands, Polski, Português)
