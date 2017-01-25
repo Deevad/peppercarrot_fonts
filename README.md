@@ -1,4 +1,4 @@
-# Pepper&Carrot fonts
+﻿# Pepper&Carrot fonts
 Open fonts used in webcomic Pepper&Carrot
 [http://www.peppercarrot.com](http://www.peppercarrot.com).
 
@@ -14,6 +14,7 @@ Fonts are sorted by "family":
 * Sinhalese (සිංහල)
 * Vietnamese (Tiếng Việt)
 * Chinese simplified (简体中文)
+* Korean (한국어)
 
 # Modifications/Derivations
 
@@ -101,6 +102,9 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (main): [wqy-microhei.ttc](http://wenq.org/en/) by WenQuanYi Project Contributors; [GNU GPL V3](http://www.gnu.org/licenses/gpl-3.0.html) with [font exception](http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html#FontException)
 
+### Korean
+
+* (main): [NanumPen.otf](http://hangeul.naver.com/font) by Naver Corp.; [OFL (SIL Open Font License)](scripts.sil.org/OFL)
 
 # Special thanks
 
