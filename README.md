@@ -56,11 +56,17 @@ Adding author name plus a link to the webpage and license info in this README is
 
 ### Farsi
 
-* (main): [Midan-Normal](http://openfontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi; [MIT License](http://opensource.org/licenses/mit-license.php)
+* (title): [ZahraRoosta](http://fontiran.com/%D9%81%D9%88%D9%86%D8%AA-%D8%B2%D9%87%D8%B1%D8%A7-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7-%D8%AA%DB%8C%D8%AA%D8%B1-%D9%81%D8%A7%D9%86%D8%AA%D8%B2%DB%8C-zahraroosta/) by Zahra Roosta; No License
 
-* (main-bold): [Midan-Black](http://openfontlibrary.org/en/font/midan-black) by Kameel Hawa; [MIT License](http://opensource.org/licenses/mit-license.php)
+* (main): [A. Hayat](http://www.fontyab.com/2425/a-hayat.html) by N/A; No License
 
-* (monster & magic incantations): [XM-Yermook](https://fontlibrary.org/en/font/xm-yermook) by Behnam; [GNU General Public License](http://www.gnu.org/copyleft/gpl.html)
+* (shouting): [A. Afsaneh](http://www.fontyab.com/3766/afsaneh.html) by Hosein Taghizadeh; No License
+
+* (credits): [A. Taha](http://p30download.com/fa/entry/42418/) by N/A; No License
+
+* (monster & magic incantations): [Mj. Sattar](http://www.fontyab.com/1061/mj_sattar.html) by N/A; No License
+
+* (labels): [A. Nahar](http://p30download.com/fa/entry/37141/) by N/A; No License
 
 ### Greek
 
