@@ -55,17 +55,15 @@ Adding author name plus a link to the webpage and license info in this README is
 
 ### Farsi
 
-* (title): [ZahraRoosta](http://fontiran.com/%D9%81%D9%88%D9%86%D8%AA-%D8%B2%D9%87%D8%B1%D8%A7-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7-%D8%AA%DB%8C%D8%AA%D8%B1-%D9%81%D8%A7%D9%86%D8%AA%D8%B2%DB%8C-zahraroosta/) by Zahra Roosta; No License
+* (title): [XP Ziba](https://fontlibrary.org/en/font/xp-ziba) by Behnam; [GNU GPL](http://www.gnu.org/copyleft/gpl.html) & [Midan](https://fontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi ; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php)
 
-* (main): [A. Hayat](http://www.fontyab.com/2425/a-hayat.html) by N/A; No License
+* (main): [Midan](https://fontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi ; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php)
 
-* (shouting): [A. Afsaneh](http://www.fontyab.com/3766/afsaneh.html) by Hosein Taghizadeh; No License
+* (shouting): [Midan Black](https://fontlibrary.org/en/font/midan-black) by Almohtaraf Assaudi ; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php)
 
-* (credits): [A. Taha](http://p30download.com/fa/entry/42418/) by N/A; No License
+* (monster speech & magic incantations): [Mj. Talat](https://fontlibrary.org/en/font/mj-talat) by N/A; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php) & [XM Yermook](https://fontlibrary.org/en/font/mj-talat) by Behnam; [GNU GPL](http://www.gnu.org/copyleft/gpl.html)
 
-* (monster & magic incantations): [Mj. Sattar](http://www.fontyab.com/1061/mj_sattar.html) by N/A; No License
-
-* (labels): [A. Nahar](http://p30download.com/fa/entry/37141/) by N/A; No License
+* (sfx): [XP Vosta](https://fontlibrary.org/en/font/xp-vosta) by Behnam; [GNU GPL](http://www.gnu.org/copyleft/gpl.html)
 
 ### Greek
 
