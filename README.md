@@ -82,9 +82,11 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (labels italic): [Alex Brush](http://openfontlibrary.org/fr/font/alex-brush) by Robert E. Leuschke, modified by Sölve Svartskogen, [TypeSETit.com](http://www.typesetit.com); [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
 
-* (labels italic - alt): [DynaLight](http://www.fontsquirrel.com/fonts/dynalight) by Brian J. Bonislawsky DBA Astigmatic (AOETI), astigma@astigmatic.com; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
+* (labels italic - alt): [DynaLight](http://www.fontsquirrel.com/fonts/dynalight) by Brian J. Bonislawsky DBA Astigmatic (AOETI), astigma@astigmatic.com ; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
 
-* (subtitle): [Risque](http://www.fontsquirrel.com/fonts/risque) by Brian J. Bonislawsky DBA Astigmatic (AOETI), astigma@astigmatic.com; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
+* (fat labels): [Combat](https://fontlibrary.org/en/font/combat) by Martin Desinde, martindesinde@yahoo.fr ; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
+
+* (subtitle): [Risque](http://www.fontsquirrel.com/fonts/risque) by Brian J. Bonislawsky DBA Astigmatic (AOETI), astigma@astigmatic.com ; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
 
 * (monster-speech): [DrukaatieBurti](http://openfontlibrary.org/en/font/drukaatieburti) by Kārlis Kalviškis, Zirneklitis; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
 
