@@ -56,11 +56,15 @@ Adding author name plus a link to the webpage and license info in this README is
 
 ### Farsi
 
-* (main): [Midan-Normal](http://openfontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi; [MIT License](http://opensource.org/licenses/mit-license.php)
+* (title): [XP Ziba](https://fontlibrary.org/en/font/xp-ziba) by Behnam; [GNU GPL](http://www.gnu.org/copyleft/gpl.html) & [Midan](https://fontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi ; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php)
 
-* (main-bold): [Midan-Black](http://openfontlibrary.org/en/font/midan-black) by Kameel Hawa; [MIT License](http://opensource.org/licenses/mit-license.php)
+* (main): [Midan](https://fontlibrary.org/en/font/midan-normal) by Almohtaraf Assaudi ; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php)
 
-* (monster & magic incantations): [XM-Yermook](https://fontlibrary.org/en/font/xm-yermook) by Behnam; [GNU General Public License](http://www.gnu.org/copyleft/gpl.html)
+* (shouting): [Midan Black](https://fontlibrary.org/en/font/midan-black) by Almohtaraf Assaudi ; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php)
+
+* (monster speech & magic incantations): [Mj. Talat](https://fontlibrary.org/en/font/mj-talat) by N/A; [MIT (X11) License](http://www.opensource.org/licenses/mit-license.php) & [XM Yermook](https://fontlibrary.org/en/font/mj-talat) by Behnam; [GNU GPL](http://www.gnu.org/copyleft/gpl.html)
+
+* (sfx): [XP Vosta](https://fontlibrary.org/en/font/xp-vosta) by Behnam; [GNU GPL](http://www.gnu.org/copyleft/gpl.html)
 
 ### Greek
 
