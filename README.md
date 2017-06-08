@@ -94,6 +94,8 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (monster-speech): [DrukaatieBurti](http://openfontlibrary.org/en/font/drukaatieburti) by Kārlis Kalviškis, Zirneklitis; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
 
+* (titles): [Yanone Kaffeesatz](https://www.yanone.de/fonts/kaffeesatz/) (thin/light/bold/regular) by Yanone ; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
+
 
 ### Sinhalese
 
