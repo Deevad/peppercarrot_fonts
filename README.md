@@ -16,6 +16,12 @@ Fonts are sorted by "family":
 * Chinese simplified (简体中文)
 * Korean (한국어)
 
+# Installation
+
+On Arch Linux and derivates, you can install all of these fonts at once by installing [peppercarrot-fonts-git](https://aur.archlinux.org/packages/peppercarrot-fonts-git/) from the AUR.
+
+On other platforms, you may have to install the fonts you want to use manually.
+
 # Modifications/Derivations
 
 Modification or derivation can be done with FontForge. FontForge sources files (sfd) can be saved in a subdirectory "sources".
