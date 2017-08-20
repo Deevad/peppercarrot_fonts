@@ -16,11 +16,17 @@ Fonts are sorted by "family":
 * Chinese simplified (简体中文)
 * Korean (한국어)
 
-# Modifications/Derivations
+## Installation
+
+On Arch Linux and derivates, you can install all of these fonts at once by installing [peppercarrot-fonts-git](https://aur.archlinux.org/packages/peppercarrot-fonts-git/) from the AUR.
+
+On other platforms, you may have to install the fonts you want to use manually.
+
+## Modifications/Derivations
 
 Modification or derivation can be done with FontForge. FontForge sources files (sfd) can be saved in a subdirectory "sources".
 
-# License, author, details and links
+## License, author, details and links
 
 **Note:** Every font or contribution to modify one in this project **must** be compatible with the CC-By license.
 
@@ -114,6 +120,6 @@ Adding author name plus a link to the webpage and license info in this README is
 
 * (main): [NanumPen.otf](http://hangeul.naver.com/font) by Naver Corp.; [OFL (SIL Open Font License)](http://scripts.sil.org/OFL)
 
-# Special thanks
+## Special thanks
 
 A big thanks to all font's creators on this page, and also a special thank to the website owner and maintainer of [openfontlibrary.org](http://openfontlibrary.org) for being the best and safer place to find font on open-source project.
