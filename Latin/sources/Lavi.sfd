@@ -1,17 +1,16 @@
 SplineFontDB: 3.0
 FontName: Lavi
-FullName: Lavi
+FullName: Lavi Regular
 FamilyName: Lavi
-Weight: Book
-Copyright: Copyright(c) 2009 by Ruben Holthuijsen. GPL Licensed.
-Version: 1.0
+Weight: Regular
+Copyright: A creation by Ruben Holthuijsen aka Rholt (2009).\nMaintainance and modification by David Revoy for the webcomic www.peppercarrot.com.\nCorrection by Solve Svartskogen.\nGNU GPL V3 ( https://www.gnu.org/copyleft/gpl.html)\nRepository and sources available here: https://github.com/Deevad/peppercarrot_fonts/\n
+Version: 2.0
 ItalicAngle: 0
 UnderlinePosition: -240
 UnderlineWidth: 120
 Ascent: 1638
 Descent: 410
 InvalidEm: 0
-sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -21,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1231154524
-ModificationTime: 1509915192
+ModificationTime: 1509917360
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -456,31 +455,31 @@ ShortTable: maxp 16
   2
   1
 EndShort
-LangName: 1033 "Copyright+AKkA 2009 by Ruben Holthuijsen. GPL Licensed." "" "Regular" "RubenHolthuijsen: Lavi: 2009" "" "Version 1.0" "" "" "Ruben Holthuijsen" "Ruben Holthuijsen" "Copyright+AKkA 2009 by Ruben Holthuijsen. GPL Licensed." "" "http://rholt.1stfreehosting.com/" "GPL License (see URL)" "http://www.gnu.org/licenses/gpl-3.0.txt" "" "" "" "Lavi"
-LangName: 1027 "" "" "Normal"
-LangName: 1029 "" "" "oby+AQ0A-ejn+AOkA"
-LangName: 1030 "" "" "normal"
-LangName: 1031 "" "" "Standard"
-LangName: 1032 "" "" "+A5oDsQO9A78DvQO5A7oDrAAA"
-LangName: 1034 "" "" "Normal"
-LangName: 1035 "" "" "Normaali"
-LangName: 1036 "" "" "Normal"
-LangName: 1038 "" "" "Norm+AOEA-l"
-LangName: 1040 "" "" "Normale"
-LangName: 1043 "" "" "Standaard"
-LangName: 1044 "" "" "Normal"
-LangName: 1045 "" "" "Normalny"
-LangName: 1046 "" "" "Normal"
-LangName: 1049 "" "" "+BB4EMQRLBEcEPQRLBDkA"
-LangName: 1051 "" "" "Norm+AOEA-lne"
-LangName: 1053 "" "" "Normal"
 LangName: 1055 "" "" "Normal"
-LangName: 1060 "" "" "Navadno"
-LangName: 1069 "" "" "Arrunta"
-LangName: 2058 "" "" "Normal"
-LangName: 2070 "" "" "Normal"
+LangName: 1053 "" "" "Normal"
+LangName: 1034 "" "" "Normal"
 LangName: 3082 "" "" "Normal"
+LangName: 2058 "" "" "Normal"
+LangName: 1060 "" "" "Navadno"
+LangName: 1051 "" "" "Norm+AOEA-lne"
+LangName: 1049 "" "" "+BB4EMQRLBEcEPQRLBDkA"
+LangName: 1046 "" "" "Normal"
+LangName: 2070 "" "" "Normal"
+LangName: 1045 "" "" "Normalny"
+LangName: 1044 "" "" "Normal"
+LangName: 1040 "" "" "Normale"
+LangName: 1038 "" "" "Norm+AOEA-l"
+LangName: 1032 "" "" "+A5oDsQO9A78DvQO5A7oDrAAA"
+LangName: 1031 "" "" "Standard"
+LangName: 1036 "" "" "Normal"
 LangName: 3084 "" "" "Normal"
+LangName: 1035 "" "" "Normaali"
+LangName: 1043 "" "" "Standaard"
+LangName: 1030 "" "" "normal"
+LangName: 1029 "" "" "oby+AQ0A-ejn+AOkA"
+LangName: 1027 "" "" "Normal"
+LangName: 1069 "" "" "Arrunta"
+LangName: 1033 "by Ruben Holthuijsen aka Rholt, modification by David Revoy and Solve Svartskogen; GNU GPL V3" "" "" "RubenHolthuijsen: Lavi: 2009" "" "Version 1.0" "" "" "Ruben Holthuijsen" "Ruben Holthuijsen" "A rounded and friendly font for comic speechbubble" "" "https://github.com/Deevad/peppercarrot_fonts/" "GPL License (see URL)" "http://www.gnu.org/licenses/gpl-3.0.txt" "" "" "" "Lavi"
 GaspTable: 3 8 3 16 3 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -489,6 +488,8 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 32 14
+BeginPrivate: 0
+EndPrivate
 BeginChars: 65543 353
 
 StartChar: .notdef
@@ -10563,7 +10564,7 @@ StartChar: s
 Encoding: 115 115 86
 Width: 935
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -16668,7 +16669,7 @@ StartChar: Yacute
 Encoding: 221 221 157
 Width: 1251
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 Refer: 60 89 N 1 0 0 1 -81 0 2
