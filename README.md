@@ -1,4 +1,9 @@
-﻿# Pepper&Carrot fonts
+**IMPORTANT**  
+_Repository Archived:_ we continue here now: https://framagit.org/peppercarrot  (fonts are on a subfolder under **webcomics**)
+We moved on November 2017 to this new platform. Details [here](https://www.peppercarrot.com/en/article429/mega-maintenance). The current repository will be removed in 2018
+
+---
+# Pepper&Carrot fonts
 Open fonts used in webcomic Pepper&Carrot
 [http://www.peppercarrot.com](http://www.peppercarrot.com).
 
